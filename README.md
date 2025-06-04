@@ -12,7 +12,7 @@
 - フレームワーク: React, Next.js, React Native（業務経験あり）
 - 言語: Python, C++, JavaScript, TypeScript
 - 競技プログラミング: AtCoder 緑
-- データ解析: pandas, matplotlib, scikit-learn, パーシステントホモロジー基礎理解中
+- データ解析: pandas, matplotlib, scikit-learn, pythonselenium, パーシステントホモロジー基礎理解中
 
 ---
 
