@@ -3,7 +3,7 @@
 東京科学大学理学院数学系に所属している大学生エンジニアです。
 純粋数学、とくに代数トポロジーや幾何学に関心を持ちつつ、現在Web・モバイルアプリ開発を業務として行っています。
 今後、在学中にデータ解析や機械学習を用いた業務に携わってみたいと考えています。
-企業様などご気軽にご連絡ください。
+もしこのような分野で長期インターン(アルバイト形式)を募集している企業がございましたらご連絡ください。
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 🧠 コンペ参加
 
-- AtCoder: https://atcoder.jp/users/saitamakennminn （緑）
+- AtCoder: https://atcoder.jp/users/shirohige1（緑）
 - Kaggle: https://www.kaggle.com/hiroshige1（learncourseは修了）
 
 ---
