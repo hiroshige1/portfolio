@@ -37,8 +37,6 @@
 
 ## 🧠 コンペ参加
 
-- AtCoder: https://atcoder.jp/users/shirohige1
-  （緑）
 - Kaggle: https://www.kaggle.com/hiroshige1
 - （learncourseは修了）
 
