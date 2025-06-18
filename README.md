@@ -11,7 +11,6 @@
 
 - フレームワーク: React, Next.js, React Native（業務経験あり）
 - 言語: Python, C++, JavaScript, TypeScript
-- 競技プログラミング: AtCoder 緑
 - データ解析: pandas, matplotlib, scikit-learn, pythonselenium, パーシステントホモロジー基礎理解中
 
 ---
@@ -29,7 +28,7 @@
 
 ## 🌱 関心と活動
 
-- 大学では純粋数学（特に代数的位相幾何）をメインに学習中
+- 大学では純粋数学（特に代数）をメインに学習中
 - 仲間内でパーシステントホモロジーを用いた点群解析ゼミを開催中
 - 今後は、データ解析や機械学習エンジニアリングの実務に携わってみたいと考えています
 
@@ -45,4 +44,3 @@
 ## ✉️ 連絡
 
 - アドレス:hiroshigeayumu@gmail.com
-- X:https://x.com/1lcILw7wej80731
