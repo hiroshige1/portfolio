@@ -8,7 +8,7 @@
 
 ## スキルセット
 
-- フレームワーク: React, Next.js, React Native（業務経験あり）
+- フレームワーク: React, Next.js, React Native
 - 言語: Python, C++, JavaScript, TypeScript
 - データ解析: pandas, matplotlib, scikit-learn, pythonselenium, パーシステントホモロジー基礎理解中
 
@@ -37,12 +37,16 @@
 
 - Kaggle: https://www.kaggle.com/hiroshige1
 - （learncourseは修了）
+- atcoder茶: https://atcoder.jp/users/shirohige1
+- 
 
 ---
 
 ##　実績
 
-松尾研深層モデル2025修了
+松尾研深層生成モデル2025summer修了
+松尾研深層強化学習2025summer終了
+松尾研AIと半導体2025summer終了
 
 ---
 
