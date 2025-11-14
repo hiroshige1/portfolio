@@ -42,18 +42,18 @@
 
 ## 作品
 
--パーシステントホモロジーを用いた特徴量生成
-https://www.kaggle.com/code/hiroshige1/to-show
+- パーシステントホモロジーを用いた特徴量生成
+- https://www.kaggle.com/code/hiroshige1/to-show
 
 
 ---
 
-##　実績
+## 実績
 
--松尾研深層生成モデル2025summer修了
--松尾研深層強化学習2025summer終了
--松尾研AIと半導体2025summer終了
--松尾研金融2025summer終了
+- 松尾研深層生成モデル2025summer修了
+- 松尾研深層強化学習2025summer終了
+- 松尾研AIと半導体2025summer終了
+- 松尾研金融2025summer終了
 
 ---
 
