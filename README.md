@@ -2,7 +2,7 @@
 名前:廣重 歩（Ayumu Hiroshige）
 東京科学大学理学院数学系に所属している大学生エンジニアです。
 純粋数学、とくに代数トポロジーや幾何学に関心を持ちつつ、現在Web・ネイティブアプリ開発を業務として行っています。
-今後、在学中にデータ解析や機械学習を用いた業務に携わってみたいと考えています。
+今後、在学中に学費を稼ぎながらデータ解析や機械学習を用いた業務に携わっていきたいと思っています。
 
 ---
 
@@ -10,7 +10,7 @@
 
 - フレームワーク: React, Next.js, React Native
 - 言語: Python, C++, JavaScript, TypeScript
-- データ解析: pandas, matplotlib, scikit-learn, pythonselenium, パーシステントホモロジー基礎理解中
+- データ解析: pandas, matplotlib, scikit-learn, pythonselenium, パーシステントホモロジー, 統計検定一級挑戦中
 
 ---
 
@@ -40,6 +40,12 @@
 - atcoder茶: https://atcoder.jp/users/shirohige1
 - 
 
+## 作品
+
+-パーシステントホモロジーを用いた特徴量生成
+https://www.kaggle.com/code/hiroshige1/to-show
+
+
 ---
 
 ##　実績
@@ -47,6 +53,7 @@
 松尾研深層生成モデル2025summer修了
 松尾研深層強化学習2025summer終了
 松尾研AIと半導体2025summer終了
+松尾研金融2025summer終了
 
 ---
 
