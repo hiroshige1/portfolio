@@ -27,9 +27,9 @@
 
 ## 業務履歴
 
-- openAIのAPIを用いたwebアプリ,android,iosのネイティブアプリの開発(Next.js, reactnative)
-- windows上で稼働する産業向け配布アプリをC++で開発
-- 時系列データに対する統計的検定方法を用いた解析
+- openAIのAPIを用いたwebアプリ,android,iosのネイティブアプリの集団開発(Next.js, reactnative)
+- windows上で稼働する産業向け配布アプリをC++,ninjaを用いて開発
+- 時系列データに対するノンパラメトリック手法を用いたデータ解析
 
 ---
 
