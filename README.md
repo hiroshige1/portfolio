@@ -1,24 +1,26 @@
 ## 自己紹介 
 
-名前:廣重 歩（Ayumu Hiroshige）
+初めまして！ご覧いただきありがとうございます。
+廣重 歩（Ayumu Hiroshige）と申します。
+
 東京科学大学理学院数学系に所属している大学生エンジニアです。
 純粋数学、とくに代数トポロジーや幾何学に関心を持ちつつ、現在Web・ネイティブアプリ開発を業務として行っています。
 今後、在学中に学費を稼ぎながらデータ解析や機械学習を用いた業務に携わっていきたいと思っています。
 
 ---
 
-## 趣味
+## 趣味🎸
 
 名前の通り、歩くのが好きです。
 休日に人と一緒に散歩に行くのが好きです。
 
 ギター弾くのも好きです。
 最近はメタリカのmaster of pappet挑戦してます。
-https://open.spotify.com/intl-ja/track/2MuWTIM3b0YEAskbeeFE1i?si=e23ddfd547714614
+🤘 https://open.spotify.com/intl-ja/track/2MuWTIM3b0YEAskbeeFE1i?si=e23ddfd547714614
 
 ---
 
-## スキルセット
+## スキルセット📖
 
 - フレームワーク: React, Next.js, React Native
 - 言語: Python, C++, JavaScript, TypeScript
@@ -26,7 +28,7 @@ https://open.spotify.com/intl-ja/track/2MuWTIM3b0YEAskbeeFE1i?si=e23ddfd54771461
 
 ---
 
-## 経歴
+## 経歴🏫
 
 - 2023年3月 埼玉県立所沢北高等学校 卒業  
 - 2023年4月 東京工業大学理学院 入学  
@@ -37,7 +39,7 @@ https://open.spotify.com/intl-ja/track/2MuWTIM3b0YEAskbeeFE1i?si=e23ddfd54771461
 
 ---
 
-## 業務履歴例
+## 業務履歴例💻
 
 - openAIのAPIを用いたwebアプリ,android,iosのネイティブアプリの集団開発(Next.js, reactnative)
 - windows上で稼働する産業向け配布アプリをC++,ninjaを用いて開発
@@ -61,7 +63,7 @@ https://open.spotify.com/intl-ja/track/2MuWTIM3b0YEAskbeeFE1i?si=e23ddfd54771461
 - atcoder茶: https://atcoder.jp/users/shirohige1
 - 
 
-## 作品
+## 作品✏️ 
 
 - パーシステントホモロジーを用いた特徴量生成
 - https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main
