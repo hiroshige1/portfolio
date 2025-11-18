@@ -4,13 +4,20 @@
 純粋数学、とくに代数トポロジーや幾何学に関心を持ちつつ、現在Web・ネイティブアプリ開発を業務として行っています。
 今後、在学中に学費を稼ぎながらデータ解析や機械学習を用いた業務に携わっていきたいと思っています。
 
+# 趣味
+名前の通り、歩くのが好きです。
+数学や開発が行き詰まったらひたすら歩いてます。
+
+ギター弾くのも好きです。
+最近はメタリカのmaster of pappet挑戦してます。
+https://open.spotify.com/intl-ja/track/2MuWTIM3b0YEAskbeeFE1i?si=e23ddfd547714614
 ---
 
 ## スキルセット
 
 - フレームワーク: React, Next.js, React Native
 - 言語: Python, C++, JavaScript, TypeScript
-- データ解析: pandas, matplotlib, scikit-learn, pythonselenium, パーシステントホモロジー, 統計検定一級挑戦中
+- データ解析: pandas, matplotlib, scikit-learn, pythonselenium, パーシステントホモロジー, 統計検定一級挑戦中(結果待ち), E検定勉強中
 
 ---
 
@@ -35,8 +42,9 @@
 
 ## 関心と活動
 
-- 大学では純粋数学（特に代数）をメインに学習中
+- 大学では純粋数学をメインに学習中
 - 仲間内でパーシステントホモロジーを用いた点群解析ゼミを開催
+- 拡散モデルや特徴量生成について論文を読み進めたりしてます。
 - 今後は、データ解析や機械学習エンジニアリングの実務に携わってみたいと考えています
 
 ---
@@ -51,7 +59,11 @@
 ## 作品
 
 - パーシステントホモロジーを用いた特徴量生成
+- https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main
+
+- パーシステントホモロジーの知識を用いてkaggleの高分子化合物の分子式から性質を予測するコンペティションの参加
 - https://www.kaggle.com/code/hiroshige1/to-show
+
 
 
 ---
@@ -67,5 +79,4 @@
 
 
 ## 連絡
-
 - アドレス:hiroshigeayumu@gmail.com
