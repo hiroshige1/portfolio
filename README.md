@@ -10,7 +10,8 @@
 ## 趣味
 
 名前の通り、歩くのが好きです。
-数学や開発が行き詰まったらひたすら歩いてます。
+休日に人と一緒に散歩に行くのが好きです。
+
 ギター弾くのも好きです。
 最近はメタリカのmaster of pappet挑戦してます。
 https://open.spotify.com/intl-ja/track/2MuWTIM3b0YEAskbeeFE1i?si=e23ddfd547714614
