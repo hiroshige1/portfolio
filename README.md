@@ -71,6 +71,9 @@
 - パーシステントホモロジーの知識を用いてkaggleの高分子化合物の分子式から性質を予測するコンペティションの参加
 - https://www.kaggle.com/code/hiroshige1/to-show
 
+- AEを用いたmnistにおける多様体表現の獲得の様子の調査
+- https://github.com/hiroshige1/mnist-manifold
+
 
 
 ---
