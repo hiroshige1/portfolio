@@ -65,7 +65,7 @@
 
 ## 作品✏️ 
 
-- パーシステントホモロジーを用いた特徴量生成
+- パーシステントホモロジーを用いたmnistにおける特徴量生成
 - https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main
 
 - パーシステントホモロジーの知識を用いてkaggleの高分子化合物の分子式から性質を予測するコンペティションの参加
