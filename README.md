@@ -63,7 +63,7 @@
 - atcoder茶: https://atcoder.jp/users/shirohige1
 - 
 
-## 作品✏️ 
+## 作品✏️ (及び実験)
 
 - パーシステントホモロジーを用いたmnistにおける特徴量生成
 - https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main
