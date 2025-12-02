@@ -78,6 +78,8 @@
 - https://github.com/hiroshige1/mnist-manifold
 
 - マインクラフトLLMエージェントであるvoyagerについてローカルLLMを用いた低コスト版作成及びLoraでのQwenモデルの改良
+- https://github.com/hiroshige1/voyager_model.git
+- やはり低コストモデルとして少々コード実装に難はありましたが、それでも木を切るなどといった簡単なタスクの達成はできました。
 
 
 ---
