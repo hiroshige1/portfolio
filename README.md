@@ -66,20 +66,20 @@
 ## 作品✏️ (及び実験)
 
 - パーシステントホモロジーを用いたmnistにおける特徴量生成
-- https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main
+  https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main
 
 - パーシステントホモロジーの知識を用いてkaggleの高分子化合物の分子式から性質を予測するコンペティションの参加
-- https://www.kaggle.com/code/hiroshige1/to-show
+  https://www.kaggle.com/code/hiroshige1/to-show
 
 - VAEを用いたmnistにおけるLIDでの潜在空間の次元の検討と次元が不足していた場合の自己交差の検証
-- https://github.com/hiroshige1/mnist_LID
+  https://github.com/hiroshige1/mnist_LID
 
 - AEを用いたmnistにおける多様体表現の獲得の様子の調査
-- https://github.com/hiroshige1/mnist-manifold
+  https://github.com/hiroshige1/mnist-manifold
 
 - マインクラフトLLMエージェントであるvoyagerについてローカルLLMを用いた低コスト版作成及びLoraでのQwenモデルの改良
-- https://github.com/hiroshige1/voyager_model.git
-- やはり低コストモデルとして少々コード実装に難はありましたが、それでも木を切るなどといった簡単なタスクの達成はできました。
+  https://github.com/hiroshige1/voyager_model.git
+  やはり低コストモデルとして少々コード実装に難はありましたが、それでも木を切るなどといった簡単なタスクの達成はできました。
 
 
 ---
