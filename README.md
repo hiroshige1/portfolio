@@ -77,6 +77,8 @@
 - AEを用いたmnistにおける多様体表現の獲得の様子の調査
 - https://github.com/hiroshige1/mnist-manifold
 
+- マインクラフトLLMエージェントであるvoyagerについてローカルLLMを用いた低コスト版作成及びLoraでのQwenモデルの改良
+
 
 ---
 
