@@ -40,6 +40,8 @@ I am an undergraduate engineer majoring in Mathematics at the School of Science,
 
 * **Feature generation for MNIST using Persistent Homology**
     * [Repository Link](https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main)
+* **A"*" algorithm with Julia**
+    * [Repository Link](https://github.com/hiroshige1/astar_and_julia/tree/master)
 * **Kaggle Competition using Persistent Homology**
     * Participation in a competition to predict properties from molecular formulas of polymer compounds.
     * [Code Link](https://www.kaggle.com/code/hiroshige1/to-show)
