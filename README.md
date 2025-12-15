@@ -14,7 +14,6 @@ I am an undergraduate engineer majoring in Mathematics at the School of Science,
 | **Frameworks** | React, Next.js, React Native |
 | **Languages** | Python, C++, JavaScript, TypeScript |
 | **Data Analysis** | pandas, matplotlib, scikit-learn, pythonselenium, Persistent Homology |
-| **Certifications** | Studying for Grade 1 Statistics Certification (awaiting results), Studying for E-Kentei (Engineering Certification) |
 
 ---
 
