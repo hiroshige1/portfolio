@@ -4,6 +4,7 @@ Nice to meet you! Thank you for viewing my profile.
 My name is **Ayumu Hiroshige**.
 
 I am an undergraduate engineer majoring in Mathematics at the School of Science, Tokyo Tech (Tokyo Institute of Technology, now Tokyo Science University). While having a strong interest in **Pure Mathematics** (especially Algebraic Topology and Geometry), I am currently working professionally in **Web and Native App development**. I aim to gain experience in data analysis and machine learning-based tasks while earning tuition during my studies.
+Now, I'm interested in graphical neural network,and I want to proceed in this realm in master.
 
 ---
 
