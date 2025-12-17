@@ -39,6 +39,8 @@ I am an undergraduate engineer majoring in Mathematics at the School of Science,
 
 * **Feature generation for MNIST using Persistent Homology**
     * [Repository Link](https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main)
+* **From scratch julia NN for kaggle**
+    * https://github.com/hiroshige1/NN_by_julia
 * **A"*" algorithm with Julia**
     * [Repository Link](https://github.com/hiroshige1/astar_and_julia/tree/master)
 * **Kaggle Competition using Persistent Homology**
