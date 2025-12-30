@@ -39,7 +39,7 @@ X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)
 ---
 
 ## ⚙️ プロジェクトと実験
-
+* **stablediffusionとLoraを用いた一般的な画像から360度画像を生成するモデル**
 <iframe 	src="https://hiroshige1-image-to-360.hf.space" 	frameborder="0" 	width="850" 	height="450" ></iframe>
 * **パーシステントホモロジーを用いたMNISTの特徴量生成**
     * [リポジトリ](https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main)
