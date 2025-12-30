@@ -40,6 +40,7 @@ X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)
 
 ## ⚙️ プロジェクトと実験
 
+<iframe 	src="https://hiroshige1-image-to-360.hf.space" 	frameborder="0" 	width="850" 	height="450" ></iframe>
 * **パーシステントホモロジーを用いたMNISTの特徴量生成**
     * [リポジトリ](https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main)
 * **Kaggle向けJuliaによるニューラルネットワークのスクラッチ実装**
