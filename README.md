@@ -41,6 +41,8 @@ X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)
 ## ⚙️ プロジェクトと実験
 * **stablediffusionとLoraを用いた一般的な画像から360度画像を生成するモデル**(下記の実行には15分ほどかかります)
   <iframe 	src="https://hiroshige1-image-to-360.hf.space" 	frameborder="0" 	width="850" 	height="450" ></iframe>
+* **mod計算におけるglokking獲得の様子観察**
+    * https://github.com/hiroshige1/grok_modulo/tree/main
 * **パーシステントホモロジーを用いたMNISTの特徴量生成**
     * [リポジトリ](https://github.com/hiroshige1/mnist-persistenttopology-analysis/tree/main)
 * **Kaggle向けJuliaによるニューラルネットワークのスクラッチ実装**
