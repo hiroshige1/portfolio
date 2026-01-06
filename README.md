@@ -7,6 +7,8 @@
 現在は**幾何学的な知識を用いた機械学習の構造解明や、grokkingなどの深層学習の潜在空間における現象**に深い関心があり、修士課程ではこの分野の研究を進める予定です。
 
 X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)
+kaggle: https://www.kaggle.com/work
+atcoder: https://atcoder.jp/users/shirohige1
 
 ---
 
@@ -39,7 +41,7 @@ X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)
 ---
 
 ## ⚙️ プロジェクトと実験
-* **stablediffusionとLoraを用いた一般的な画像から360度画像を生成するモデル**(下記の実行には15分ほどかかります)
+* **stablediffusionとLoraを用いた一般的な画像から360度画像を生成するモデル(作成途中なのであまり精度はよくないです…)**(下記の実行には15分ほどかかります)
   <iframe 	src="https://hiroshige1-image-to-360.hf.space" 	frameborder="0" 	width="850" 	height="450" ></iframe>
 * **mod計算におけるglokking獲得の様子観察**
     * https://github.com/hiroshige1/grok_modulo/tree/main
