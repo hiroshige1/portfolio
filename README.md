@@ -35,8 +35,7 @@ atcoder: https://atcoder.jp/users/shirohige1
 ---
 
 ## プロジェクトと実験
-* **stablediffusionとLoraを用いた一般的な画像から360度画像を生成するモデル(作成途中なのであまり精度はよくないです…)**(下記の実行には15分ほどかかります)
-  <iframe 	src="https://hiroshige1-image-to-360.hf.space" 	frameborder="0" 	width="850" 	height="450" ></iframe>
+* **stablediffusionとLoraを用いた一般的な画像から360度画像を生成するモデル(現在停止中です…)**
 * **mod計算におけるglokking獲得の様子観察**
     * https://github.com/hiroshige1/grok_modulo/tree/main
     * https://note.com/shirohige11/n/n622aa414af43
