@@ -22,7 +22,7 @@ atcoder: https://atcoder.jp/users/shirohige1
 ## 実務経験
 
 * **AIアプリ開発**: OpenAI APIを活用したWebアプリ、Android/iOSネイティブアプリのチーム開発（Next.js, React Native）。
-* **デスクトップアプリ開発**: C++とNinjaを用いた、Windows上で動作する産業系アプリケーションの開発。
+* **デスクトップアプリ開発**: C++とNinjaを用いた、Windows上で動作する産業系AIエージェントアプリケーションの開発。
 * **統計分析**: ノンパラメトリック手法を用いた時系列データの検定およびレポート作成。
 
 ---
