@@ -4,7 +4,7 @@
 今現在、東京科学大学（旧 東京工業大学）理学院数学系に在籍しています。
 
 X: [https://x.com/eC32poCJds83837](https://x.com/eC32poCJds83837)
-kaggle: https://www.kaggle.com/work
+kaggle: https://www.kaggle.com/hiroshige1
 atcoder: https://atcoder.jp/users/shirohige1
 
 ---
